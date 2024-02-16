@@ -1,0 +1,38 @@
+body{
+    background-color:powderblue;
+}
+h1{
+    color:chartreuse;
+}
+/* h2{
+    border: 1px solid black;
+    color:rgb(155, 25, 25);
+    padding: 5px;
+    margin: 50px;
+} */
+th{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 200px;
+    color:blueviolet;
+    border-radius: 10px;
+    border-style:dotted;
+}
+button{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 20px; 
+    color:brown;
+    background-color:chartreuse;
+    font-family: unset;
+    border-style: ridge;
+    
+}
+
+input{
+    border-radius: 2px;
+    background-color:chartreuse;
+    font-family:unset;
+    margin:10px;
+
+}
